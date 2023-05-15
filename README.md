@@ -1,3 +1,3 @@
 # Snake Game
 
-Jogo da Cobra feito utilizando HTML, CSS e JavaScript nativo.
+Made using HTML, CSS and native JavaScript.
